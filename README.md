@@ -2,7 +2,7 @@
 
 Smart Chrome extension for VIT students to filter, select, and batch-download course materials from VTOP.
 
-## What's New in v2
+## What's New
 
 - ✅ **Fixed downloads** — triggers the actual VTOP download button via content script click simulation
 - 🔍 **Search by material name** — type anything to filter the list
